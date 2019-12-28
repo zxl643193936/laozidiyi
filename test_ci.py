@@ -5,7 +5,7 @@
 #@time: 2019/12/6 上午10:08
 
 
-for i in range(2,103):
+for i in range(2,104):
     for j in range(2,i):
         if i%j==0:
             break
